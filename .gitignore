@@ -1,0 +1,8 @@
+.DS_Store
+_site
+.project
+*.swp
+.idea
+*.iml
+_drafts
+post-template.md

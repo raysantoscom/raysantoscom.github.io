@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ray Santos Blog 
+tagline:          
+url:              http://www.raysantos.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Ray Santos
+  url:            http://www.raysantos.com
+  email:          github@raysantos.com
+pages_list:
+  About: '/about'
+  Archives: '/archives'
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/raysantoscom
