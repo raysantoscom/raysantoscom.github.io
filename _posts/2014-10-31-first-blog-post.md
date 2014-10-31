@@ -5,4 +5,4 @@ permalink: first-blog-post
 comments: True
 ---
 
-First blog post on raysantos.com
+First blog post on raysantos.github.io
