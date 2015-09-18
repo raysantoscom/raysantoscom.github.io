@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            The Ray Santos Blog 
+title:            Ray Santos
 tagline:          Self-Learning Classical Education
 url:              http://www.raysantos.com
 paginate:         1
