@@ -22,7 +22,7 @@ The second and third bullet items stood out the most for me because Wise Bauer r
 
 During my weekly visits to the local library I like borrowing at one time multiple books that cover multiple subject areas. The order in which I read the books is based on which book is within arm's reach.
 
-As recommended by Wise Bauer, studying one subject at a time and reading books within that subject area in the order in which they were written does make sense. Ideas from a subject area's foundational works might be referenced, further developed, or opposed by books in the same area that follow it.
+As recommended by Wise Bauer, studying one subject at a time and reading books within that subject in the order in which they were written does make sense. Ideas from a subject's foundational works might be referenced, further developed, or opposed by books in the same subject area that follow it.
 
 Footnotes in Chapter 1 of "The Well-Educated Mind" referenced one letter and one speech that I think are worth reading. Both are online.
 
