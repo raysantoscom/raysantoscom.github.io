@@ -33,4 +33,4 @@ After I read the letter and the speech and give my brain some time to think abou
 
 -----
 
-Downloadable [.pdf of my handwritten Chapter 1 reading notes](/pdf/well-educated-mind/18Sep2015-ch01-notes.pdf).
+[.pdf of my Chapter 1 reading notes](/pdf/well-educated-mind/18Sep2015-ch01-notes.pdf).
