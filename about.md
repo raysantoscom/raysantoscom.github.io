@@ -31,6 +31,8 @@ If you're interested in giving yourself the classical education that you never g
 
 --Ray Santos
 
+![Ray Santos](/images/raysantos.png)
+
 San Diego, CA<br>
 September 17, 2015    
 <br>
