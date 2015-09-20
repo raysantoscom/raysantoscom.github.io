@@ -27,7 +27,7 @@ In the end, I decided to give myself a classical education through self-directed
 
 I created this blog site to record my plans, thoughts, works, and discoveries made during my self-directed classical education journey. I expect this to be a lifetime pursuit of classical education learning.
 
-If you're interested in giving yourself the classical education that you never got or if you're interested in self-directed learning, then this blog is for you. 
+If you're interested in giving yourself the classical education that you never had or if you're interested in self-directed learning, then this blog is for you. 
 
 --Ray Santos
 <br>
