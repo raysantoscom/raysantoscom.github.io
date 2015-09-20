@@ -5,7 +5,7 @@ permalink: well-educated-mind-1
 comments: True
 ---
 
-*Part I (Beginning: Preparing for Classical Education)* of <a href="http://www.amazon.com/gp/product/0393050947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393050947&linkCode=as2&tag=6767151-20&linkId=QYRGM4QQNJPX3X7U">The Well-Educated Mind</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=6767151-20&l=as2&o=1&a=0393050947" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Susan Wise Bauer, is the book that I'm using as my guide to lay the foundation from which to build my self-directed classical education.
+*Part I (Beginning: Preparing for Classical Education)* of [The Well-Educated Mind](http://www.amazon.com/gp/product/0393050947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393050947&linkCode=as2&tag=6767151-20&linkId=DLLLQ6NYPWZMLZ7A) by Susan Wise Bauer, is the book that I'm using as my guide to lay the foundation from which to build my self-directed classical education.
 
 The book's sub-title is *A Guide to the Classical Education You Never Had*.
 
