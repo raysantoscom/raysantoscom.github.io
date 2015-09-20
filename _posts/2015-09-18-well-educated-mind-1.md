@@ -5,6 +5,10 @@ permalink: well-educated-mind-1
 comments: True
 ---
 
+The life-long journey begins.<!--excerpt-->
+
+-----
+
 *Part I (Beginning: Preparing for Classical Education)* of [The Well-Educated Mind: A Guide to the Classical Education You Never Had](http://www.amazon.com/gp/product/0393050947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393050947&linkCode=as2&tag=6767151-20&linkId=DLLLQ6NYPWZMLZ7A) by Susan Wise Bauer, is the book that I'm using as my guide to lay the foundation from which to build my self-directed classical education.
 
 Ideas from Chapter 1, *Training Your Own Mind: The Classical Education You Never Had*, that stood out to me are:
