@@ -5,6 +5,10 @@ permalink: well-educated-mind-2
 comments: True
 ---
 
+Serious reading is a life-long process.<!--excerpt-->
+
+-----
+
 The ideas that I found most interesting from Chapter 2, *Wrestling with Books: The Act of Reading*, of [The Well-Educated Mind](http://www.amazon.com/gp/product/0393050947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393050947&linkCode=as2&tag=6767151-20&linkId=DLLLQ6NYPWZMLZ7A) are:
 
 * The goal of (general) reading is to gather data and to collect facts in order to be an informed person and nothing more. The goal of **serious** reading is, in addition to gathering data and collecting facts, to use that information to understand ideas and to develop wisdom. 
