@@ -17,7 +17,7 @@ The discipline I learned and developed during my military years gave me an appre
 
 After earning the masters degree in 2006 I completed additional formal college-level courses on acting, Japanese language, music, programming languages, project management, and Spanish language, to name a few. All for the fun of learning. I also completed nearly a dozen online courses combined from [Coursera](https://www.coursera.org), [edX](https://www.edx.org), and [MIT OpenCourseWare](http://ocw.mit.edu/index.htm). Again, all for the fun of learning.
 
-In September 2013 I borrowed from my local library a book titled "Climbing Parnassus - A New Apologia for Greek and Latin" by Tracy Lee Simmons, which got me interested in the Classical Education movement. Up to that point the majority of my post high school academic work focused on learning the theory and skills I needed to build a career in the software industry. 
+In September 2013 I borrowed from my local library a book titled [Climbing Parnassus - A New Apologia for Greek and Latin](http://www.amazon.com/gp/product/1933859504/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933859504&linkCode=as2&tag=6767151-20&linkId=UPRSMZBWKQYBHECO) by Tracy Lee Simmons, which got me interested in the Classical Education movement. Up to that point the majority of my post high school academic work focused on learning the theory and skills I needed to build a career in the software industry. 
 
 I now wanted to get the classical education I never had. 
 
