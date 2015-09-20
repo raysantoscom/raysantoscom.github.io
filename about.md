@@ -30,12 +30,11 @@ I created this blog site to record my plans, thoughts, works, and discoveries ma
 If you're interested in giving yourself the classical education that you never got or if you're interested in self-directed learning, then this blog is for you. 
 
 --Ray Santos
-
-![Ray Santos](/images/raysantos.png)
-
-San Diego, CA<br>
-September 17, 2015    
 <br>
+&nbsp;&nbsp;September 17, 2015    
+<br>
+![Ray Santos](/images/raysantos.png)
+[@theRaySantos](https://www.twitter.com/theRaySantos)
 <br>
 
 -----
