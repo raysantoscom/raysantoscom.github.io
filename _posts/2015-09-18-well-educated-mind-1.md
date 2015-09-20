@@ -5,11 +5,9 @@ permalink: well-educated-mind-1
 comments: True
 ---
 
-*Part I (Beginning: Preparing for Classical Education)* of [The Well-Educated Mind](http://www.amazon.com/gp/product/0393050947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393050947&linkCode=as2&tag=6767151-20&linkId=DLLLQ6NYPWZMLZ7A) by Susan Wise Bauer, is the book that I'm using as my guide to lay the foundation from which to build my self-directed classical education.
+*Part I (Beginning: Preparing for Classical Education)* of [The Well-Educated Mind: A Guide to the Classical Education You Never Had](http://www.amazon.com/gp/product/0393050947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393050947&linkCode=as2&tag=6767151-20&linkId=DLLLQ6NYPWZMLZ7A) by Susan Wise Bauer, is the book that I'm using as my guide to lay the foundation from which to build my self-directed classical education.
 
-The book's sub-title is *A Guide to the Classical Education You Never Had*.
-
-Ideas from Chapter 1 that stood out to me are:
+Ideas from Chapter 1, *Training Your Own Mind: The Classical Education You Never Had*, that stood out to me are:
 
 * Sustained serious reading is at the center of the self-education project.
 * Study one subject at a time.
@@ -33,4 +31,4 @@ After I read the letter and the speech and give my brain some time to think abou
 
 -----
 
-[.pdf of my Chapter 1 reading notes](/pdf/well-educated-mind/18Sep2015-ch01-notes.pdf).
+[.pdf of my Chapter 1 reading notes](/pdf/well-educated-mind/18Sep2015-ch01-notes.pdf)
