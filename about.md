@@ -35,6 +35,8 @@ If you're interested in giving yourself the classical education that you never h
 <br>
 ![Ray Santos](/images/raysantos.png)
 [@theRaySantos](https://www.twitter.com/theRaySantos)
+<br>hello@raysantos.com
+<br>
 <br>
 
 -----
