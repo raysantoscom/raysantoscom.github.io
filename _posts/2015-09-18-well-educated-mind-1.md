@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Well-Educated Mind - Part 1 
+title: The Well-Educated Mind - Chapter 1 
 permalink: well-educated-mind-1
 comments: True
 ---
