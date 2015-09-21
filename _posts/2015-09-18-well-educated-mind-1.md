@@ -3,6 +3,7 @@ layout: post
 title: The Well-Educated Mind - Chapter 1 
 permalink: well-educated-mind-1
 comments: True
+tags:	[Well-Educated Mind, foundation]
 ---
 
 The life-long journey begins.<!--excerpt-->
@@ -36,3 +37,5 @@ After I read the letter and the speech and give my brain some time to think abou
 -----
 
 [.pdf of my Chapter 1 reading notes](/pdf/well-educated-mind/18Sep2015-ch01-notes.pdf)
+
+-----
