@@ -3,6 +3,7 @@ layout: post
 title: The Well-Educated Mind - Chapter 2 
 permalink: well-educated-mind-2
 comments: True
+tags:   [Well-Educated Mind, foundation]
 ---
 
 Serious reading is a life-long process.<!--excerpt-->
@@ -33,3 +34,5 @@ After I finish reading the first four chapters of *The Well-Educated Mind*, I'll
 
 * [.pdf of my Chapter 2 reading notes](/pdf/well-educated-mind/19Sep2015-well-educated-mind-ch02-notes.pdf)
 * [.pdf of the first draft of this blog post](/pdf/well-educated-mind/19Sep2015-well-educated-mind-ch02-post-first-draft.pdf)
+
+-----
