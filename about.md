@@ -36,9 +36,6 @@ If you're interested in giving yourself the classical education that you never h
 ![Ray Santos](/images/raysantos.png)
 [@theRaySantos](https://www.twitter.com/theRaySantos)
 <br>hello@raysantos.com
-<br>
-<br>
 
 -----
-
 Content for this blog is written using [Markdown](http://en.wikipedia.org/wiki/Markdown), which is processed into static HTML by [Jekyll](http://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/). The site's design is [Poole](http://demo.getpoole.com).
