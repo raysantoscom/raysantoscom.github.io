@@ -22,7 +22,7 @@ The most reliable and time-proven way to master the content that you read is sum
 
 1. Write the chapter's title at the top of the journal's page.
 
-2. Read the chapter once from start to finish without stopping. Write down notes only for sentences, quotes, thoughts, or ideas that catch your attention during your reading.
+2. Read the chapter once from start to finish without stopping. Feel free to write down notes for sentences, quotes, thoughts, or ideas that catch your attention during your reading.
 
 3. After the chapter reading is completed, identify the chapter's major sections and read the chapter again. After reading each section, write in your own words a summary of the section. Ask yourself the following questions while writing the summary:
   - What is the author's most important point?
@@ -45,8 +45,14 @@ After reading each chapter twice, then writing **in my own words** a summary of 
 -----
 
 ####But wait, there's more!
+
+Journaling tools that I currently use:
+
+* [Mead Five Star college-ruled spiral notebooks](http://www.amazon.com/gp/product/B00006IDMJ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006IDMJ&linkCode=as2&tag=6767151-20&linkId=6HUJ3EXBA3P5Q3XG) -- I buy them in multi-packs when they're on discounted sale.
+* [Zebra F-301 pens](http://www.amazon.com/gp/product/B001JT1ADW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001JT1ADW&linkCode=as2&tag=6767151-20&linkId=5PDAX63JKOMJ7C7H) -- These are my favorite brand and model of pen. Been using them for years. I hope they never get discontinued.
+
 External links related to today's blog post that I found interesting:
 
 * [Commonplace Book](https://en.wikipedia.org/wiki/Commonplace_book) -- from *Wikipedia.*
 * [The Pocket Notebooks of 20 Famous Men](http://www.artofmanliness.com/2010/09/13/the-pocket-notebooks-of-20-famous-men/) -- from *The Art of Manliness.*
-* [Plain Moleskine Pocket Notebook](http://www.amazon.com/gp/product/8883701038/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8883701038&linkCode=as2&tag=6767151-20&linkId=K4ZFBUX6KD2JS7LQ) -- I want one of these.
+* [Plain Moleskine Pocket Notebook](http://www.amazon.com/gp/product/8883701038/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8883701038&linkCode=as2&tag=6767151-20&linkId=K4ZFBUX6KD2JS7LQ) -- I want one of these to carry with me.
