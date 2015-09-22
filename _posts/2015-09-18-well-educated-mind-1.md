@@ -6,7 +6,7 @@ comments: True
 tags:	[Well-Educated Mind, foundation]
 ---
 
-The life-long journey begins.<!--excerpt-->
+The journey begins.<!--excerpt-->
 
 -----
 
