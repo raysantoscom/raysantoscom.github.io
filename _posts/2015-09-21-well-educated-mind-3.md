@@ -55,4 +55,4 @@ External links related to today's blog post that I found interesting:
 
 * [Commonplace Book](https://en.wikipedia.org/wiki/Commonplace_book) -- from *Wikipedia.*
 * [The Pocket Notebooks of 20 Famous Men](http://www.artofmanliness.com/2010/09/13/the-pocket-notebooks-of-20-famous-men/) -- from *The Art of Manliness.*
-* [Plain Moleskine Pocket Notebook](http://www.amazon.com/gp/product/8883701038/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8883701038&linkCode=as2&tag=6767151-20&linkId=K4ZFBUX6KD2JS7LQ) -- I want one of these to carry with me.
+* [Field Notes Plain Memo Book](http://www.amazon.com/gp/product/B0034KD9EW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0034KD9EW&linkCode=as2&tag=6767151-20&linkId=SEPTXG3FOF3BIGYJ) -- These look perfect for back-pocket carry.
