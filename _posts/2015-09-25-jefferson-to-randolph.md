@@ -34,7 +34,7 @@ Reading Greek and Roman histories in their original languages of Greek and Latin
 
 When the opportunity presents itself, experience living in other cultures and learn how to speak another language.
 
-Maintaining a healthy body is just as important, or more, as building your mind. Walking is the best exercise. Start walking short distances if you're not used to exercising and slowly increase the numbers of miles that you walk daily. Devote as least two hours each day to exercise, rain or shine.
+Maintaining a healthy body is just as important, or more, as building your mind. Walking is the best exercise. Start walking short distances if you're not used to exercising and slowly increase the number of miles that you walk daily. Devote as least two hours each day to exercise, rain or shine.
 
 Build and maintain your resistance to sickness by taking cold showers, eating a simple diet, and getting lots of sun and fresh air daily.
 
