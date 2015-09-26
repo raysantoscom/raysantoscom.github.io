@@ -22,11 +22,11 @@ Randolph, Jr. was living in Paris at the time and he planned to move back to the
 
 ###Summary
 
-Thomas Mann Randolph, Jr., you have the foundation of language and mathematics upon which to further build your knowledge. Language strengthens the mind and memory. Mathematics strengthens our reasoning skills. An extra benefit of mathematics is that it is applicable to many other branches of study, especially in the sciences.
+Thomas Mann Randolph, Jr., you have the foundation of language and mathematics upon which to further build your knowledge. Language strengthens the mind and memory. Mathematics strengthens our reasoning skills. An extra benefit of mathematics is that it is applicable to many other branches of study, especially the sciences.
 
-Build on top of this foundation an extensive knowledge of Astronomy, Natural Philosophy, Natural History, Anatomy, Botony, and Chemistry. Don't attempt to master all of these subjects because the human lifespan isn't long enough to allow for it. Instead, find one subject area that interests you the most and master it, while still maintaining your general knowledge of the other subject areas.
+Build on top of this foundation an extensive knowledge of Astronomy, Natural Philosophy, Natural History, Anatomy, Botony, and Chemistry. Don't attempt to master all of these subjects because the human lifespan isn't long enough to allow for it. Instead, find one subject area that interests you the most and master it, while still maintaining your knowledge of the other subject areas.
 
-Take full advantage of your opportunity to attend university. You will regret it if you don't. Supplement your formal classroom education by self-educating yourself outside of the classroom. Choose the best books that will help you to close any knowledge gaps. Read whenever you can.
+Take full advantage of your opportunity to attend university. You will regret it if you don't. Supplement your formal classroom education by self-educating yourself outside of the classroom. Choose the best books that will help you close any knowledge gaps. Read whenever you can.
 
 Slow down the intensity of your studying during evening hours. Studying history is best during the evening because it exercises your memory. Read the books in each area of study in the chronological order in which they were written.
 
