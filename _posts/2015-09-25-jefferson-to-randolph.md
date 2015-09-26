@@ -34,24 +34,24 @@ Reading Greek and Roman histories in their original languages of Greek and Latin
 
 When the opportunity presents itself, experience living in other cultures and learn how to speak another language.
 
-Maintaining a healthy body is just as important, or more, as building your mind. Walking is the best exercise. Start walking short distances if you're not used to exercising and slowly increase the number of miles that you walk daily. Devote as least two hours each day to exercise, rain or shine.
+Maintaining a healthy body is just as important, or more, as building your mind. Walking is the best exercise. Start walking short distances if you're not used to exercising and slowly increase the number of miles that you walk daily. Devote at least two hours each day to exercise, rain or shine.
 
 Build and maintain your resistance to sickness by taking cold showers, eating a simple diet, and getting lots of sun and fresh air daily.
 
 ###Reactions to Summary
 Thomas Mann Randolph, Jr. was fortunate to have Thomas Jefferson give him solid advice on how to pursue higher-level academics and on how to maintain a healthy body.
 
-I like that over 200 years ago Jefferson promoted the importance of pursuing self-education by reading books outside of formal classroom lectures in order to close knowledge gaps and to gain additional knowledge not covered in university.
+I like that over 200 years ago Jefferson promoted the importance of pursuing self-education by reading books outside of formal classroom lectures in order to close knowledge gaps, and to gain additional knowledge not covered in university.
 
 Jefferson's recommendation of studying with less intensity during the evening hours is what I need to work on. I do all of my studying during evening hours because I work full-time during the day. On those evenings when my studying effort is extra focused, I have a hard time falling asleep because my mind is racing with a multitude of thoughts and ideas.
 
 I agree with Jefferson that exercising the body is just as important, if not more so, as exercising the mind. In addition to being a self-directed learner for years, I've always stayed physically active. I wish that ice cold water came out of my shower head at home when the shower is set only to cold. The coldest water I get is lukewarm.
 
-One of my life's goals is to live outside of the United States for at least two full years and immerse myself in the destination country's culture and language. As of this writing my top two countries are [Chiang Mai, Thailand](https://en.wikipedia.org/wiki/Chiang_Mai) and [Merida, Yucatan](https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n).
+One of my life's goals is to live outside of the United States for at least two full years to immerse myself in the destination country's culture and language. As of this writing my top two countries are [Chiang Mai, Thailand](https://en.wikipedia.org/wiki/Chiang_Mai) and [Merida, Yucatan](https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n).
 
 -----
 
-* [.pdf of my Chapter 4 reading notes](/pdf/speeches-and-letters/24Sep2015-jefferson-to-randolph-notes.pdf)
+* [.pdf of my Jefferson's Letter reading notes](/pdf/speeches-and-letters/24Sep2015-jefferson-to-randolph-notes.pdf)
 * [.pdf of the first draft of this blog post](/pdf/speeches-and-letters/24Sep2015-jefferson-to-randolph-first-draft.pdf)
 
 -----
